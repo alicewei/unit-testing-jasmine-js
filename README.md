@@ -5,7 +5,7 @@
 - jasmine 3.5.0
 - webpack v4.42.1
 
-```javascript
+```sh
 // install
 $ npm install
 
